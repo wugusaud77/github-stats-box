@@ -7,8 +7,3 @@
 </p>
 
 ---
-
-## Prep work
-
-1. Create a new public GitHub Gist (https://gist.github.com/new)
-2. Create a token with the `gist` and `repo` scopes and copy it (https://github.com/settings/tokens/new)
